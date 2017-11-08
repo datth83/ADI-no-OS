@@ -1,0 +1,9 @@
+<map id="drivers/platform/pico/pico_timer.h" name="drivers/platform/pico/pico_timer.h">
+<area shape="rect" id="node1" title="Header file for the pico timer driver." alt="" coords="296,5,455,47"/>
+<area shape="rect" id="node2" href="$pico__irq_8c.html" title="Implementation of external irq driver." alt="" coords="5,102,164,143"/>
+<area shape="rect" id="node3" href="$pico__timer_8c.html" title="Implementation of pico timer driver." alt="" coords="188,102,347,143"/>
+<area shape="rect" id="node4" href="$adxrs290-pmdz_2src_2platform_2pico_2parameters_8h.html" title="Definitions specific to pico platform used by adxrs290 project." alt="" coords="371,102,598,143"/>
+<area shape="rect" id="node6" href="$eval-adxl355-pmdz_2src_2platform_2pico_2parameters_8h.html" title="Definitions specific to pico platform used by eval&#45;adxl355&#45;pmdz project." alt="" coords="623,95,800,151"/>
+<area shape="rect" id="node5" href="$adxrs290-pmdz_2src_2platform_2pico_2parameters_8c.html" title="Definition of pico platform data used by adxrs290 project." alt="" coords="371,206,598,247"/>
+<area shape="rect" id="node7" href="$eval-adxl355-pmdz_2src_2platform_2pico_2parameters_8c.html" title="Definition of pico platform data used by eval&#45;adxl355&#45;pmdz project." alt="" coords="623,199,800,255"/>
+</map>
